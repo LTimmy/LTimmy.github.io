@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://LTimmy.github.io
+name: ZhaoluMa
+author: ZhaoluMa
+qq: 1073627941
+email: machlu@mail2.sysu.edu.cn
+
+duoshuo: ZhaoluMa
+beian: 
+cnzz: 
+weibo: 
+github: LTimmy
+about: "这里是 ZhaoluMa 的个人博客，创建于 2018 年。"
+
+safe: true
+paginate: 20
